@@ -36,7 +36,7 @@
 
 ### 🚀 Highlight Project
 
-#### 🛡️ Auth2GO — Licensing & Authentication Platform for Desktop Developers
+#### 🛡️ Auth2GO — Licensing & Authentication Platform for Developers
 
 **Auth2GO** is a fully-featured authentication and licensing solution designed for developers who want to easily integrate secure login and license key management into their desktop applications.
 
