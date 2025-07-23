@@ -70,10 +70,4 @@
 
 ---
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-y%C4%B1ld%C4%B1r%C4%B1m-046638264/)
-
----
-
 > “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
