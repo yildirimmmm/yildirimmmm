@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammet Yıldırım 👋</h1>
 
 <p align="center">
-  A self-taught software developer with 6+ years of hands-on experience in crafting desktop and web solutions.  
+  A self-taught software developer with 7+ years of hands-on experience in crafting desktop and web solutions.  
   Specialized in building secure, user-friendly tools with technologies like C#, PHP, Node.js, and Electron.
 </p>
 ---
