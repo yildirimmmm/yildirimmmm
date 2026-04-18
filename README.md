@@ -11,8 +11,6 @@
 - Writing code since 2018, mainly focused on **desktop** and **web development**
 - Deep interest in system-level tools and automation
 - Always learning, always building
-- Combining **Node.js** with **Electron** to build cross-platform desktop apps
-- Experienced with **VMware ESXi**, **vSphere**, and virtualization environments
 
 ---
 
