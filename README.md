@@ -6,13 +6,13 @@
 </p>
 ---
 
-### 🧠 About Me
+### About Me
 
-- 💻 Writing code since 2018, mainly focused on **desktop** and **web development**
-- ⚙️ Deep interest in system-level tools and automation
-- 💡 Always learning, always building
-- 🧰 Combining **Node.js** with **Electron** to build cross-platform desktop apps
-- 🌐 Experienced with **VMware ESXi**, **vSphere**, and virtualization environments
+- Writing code since 2018, mainly focused on **desktop** and **web development**
+- Deep interest in system-level tools and automation
+- Always learning, always building
+- Combining **Node.js** with **Electron** to build cross-platform desktop apps
+- Experienced with **VMware ESXi**, **vSphere**, and virtualization environments
 
 ---
 
@@ -33,38 +33,11 @@
 
 ---
 
-### 🚀 Highlight Project
-
-#### 🛡️ Auth2GO — Licensing & Authentication Platform for Developers
-
-**Auth2GO** is a fully-featured authentication and licensing solution designed for developers who want to easily integrate secure login and license key management into their desktop applications.
-
-🔑 **Key Features:**
-- License key generation and validation  
-- Account-based login system with registration support  
-- Option to bind licenses or user accounts to hardware (via HWID locking)  
-- Encrypted local token/session storage  
-- Log and usage tracking  
-- Server-side configuration of dynamic variables (feature flags, app settings, api response messages etc.)
-
-🛠️ **Built With:**
-- Backend: **PHP**
-- Client Libraries: Available for **C#** and **PHP**
-
-🌐 The platform includes:
-- A desktop-ready client library
-- A PHP SDK for web-based applications
-- A web-based app dashboard to monitor users, licenses, variables and logs
-
-> Though not publicly launched, Auth2GO was developed as a fully functional prototype and demonstrates my ability to architect secure and scalable authentication systems from scratch.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yildirimmmm&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimmmm&layout=compact&theme=radical" width="48%" />
+  ![yildirimmmm's Stats](https://github-readme-stats.vercel.app/api?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&count_private=true)
+  ![yildirimmmm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </p>
 
 ---
