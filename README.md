@@ -16,29 +16,28 @@
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
-**Languages & Frameworks:**
+**Languages:**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Tools & Platforms:**
+**Tools, Platforms & Frameworks:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  ![yildirimmmm's Stats](https://github-readme-stats.vercel.app/api?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&count_private=true)
-  ![yildirimmmm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&layout=compact)
-</p>
+  ![yildirimmmms](https://github-readme-stats.vercel.app/api?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&count_private=true)
+  ![yildirimmmms](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
