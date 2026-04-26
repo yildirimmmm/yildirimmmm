@@ -41,7 +41,6 @@
 
 ### GitHub Stats
 
-  ![yildirimmmms](https://github-readme-stats.vercel.app/api?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&count_private=true)
   ![yildirimmmms](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimmmm&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
