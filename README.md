@@ -2,7 +2,6 @@
 
 <p align="center">
   I taught myself and built every project from scratch over the past 7+ years designing and coding sleek, secure, and user-focused desktop, web and mobile applications.
-
   Right now, I’m grinding hard on my own project, pushing limits and redefining what’s possible.
   I’m all about crafting solutions that simplify complexity, speed up workflows, and keep users happy.
 </p>
