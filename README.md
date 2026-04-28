@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm Muhammet Yıldırım 👋</h1>
 
 <p align="center">
-  A self-taught software developer with 7+ years of hands-on experience in crafting desktop and web solutions.  
-  Specialized in building secure, user-friendly tools with technologies like C#, PHP and Node.js
+  I taught myself and built every project from scratch over the past 7+ years designing and coding sleek, secure, and user-focused desktop, web and mobile applications.
+
+  Right now, I’m grinding hard on my own project, pushing limits and redefining what’s possible.
+  I’m all about crafting solutions that simplify complexity, speed up workflows, and keep users happy.
 </p>
 ---
 
 ### About Me
 
-- Writing code since 2018, mainly focused on **desktop** and **web development**
+- Writing code since 2018
 - Deep interest in system-level tools and automation
 - Always learning, always building
 
