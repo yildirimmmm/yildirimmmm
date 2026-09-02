@@ -11,7 +11,7 @@
 
 - Writing code since 2018
 - Deep interest in system-level tools and automation
-- Always learning, always building
+- Build and build
 
 ---
 
@@ -46,4 +46,4 @@
 
 ---
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
